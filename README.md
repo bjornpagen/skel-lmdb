@@ -1,1 +1,1 @@
-# skel-node
+# skel-lmdb

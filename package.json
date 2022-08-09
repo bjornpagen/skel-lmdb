@@ -1,3 +1,6 @@
 {
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "lmdb": "^2.5.3"
+    }
 }
